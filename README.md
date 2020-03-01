@@ -1,2 +1,2 @@
 # cw1
-# Aleksanda Sawczuk gr. 17c s16446
+Aleksandra Sawczuk 17c, s16446
