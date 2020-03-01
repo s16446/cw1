@@ -21,7 +21,7 @@ namespace Cw1
                     Console.WriteLine(m.ToString());
                 }
             }
-
+            //pppp
             
             Console.WriteLine("Koniec!");
         }
